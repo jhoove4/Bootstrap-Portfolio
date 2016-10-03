@@ -1,1 +1,1 @@
-<?php include_once("Bootstrap-Portfolio/index.html"); ?>
+<?php include_once("index.html"); ?>
